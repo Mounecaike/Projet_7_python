@@ -2,7 +2,7 @@ import csv
 from itertools import combinations
 
 BUDGET = 500
-CSV_FILE = "Liste_d_actions.csv"
+CSV_FILE = "Liste+d'actions+-+P7+Python+-+Feuille+1.csv"
 
 
 def load_actions(csv_path):
